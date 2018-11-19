@@ -4,6 +4,11 @@
 # 在线体验
 [IFE Css Sprites](http://tool.luodao.me/css-sprite)
 
+# 安装
+1. 先安装yarn
+2. yarn install
+3. yarn run build
+
 # 算法
 主要参考  http://www.aaai.org/Papers/ICAPS/2003/ICAPS03-029.pdf 算法
 
